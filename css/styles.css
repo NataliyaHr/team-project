@@ -113,32 +113,6 @@ background-color:#7A3145 ;
   }
     }
 
-
-/* .hiw-img-container {
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 10px;
-    padding: 40px 20px;
-    width: 375px;
-    background-color: #7a3145;
-
-}
- @media screen and (min-width: 768px) {
-.hiw-img-container {
-    padding: 100px 64px;
-        width: 768px;
-    }
- }
- @media screen and (min-width: 1280px) {
-.hiw-img-container {
-    padding: 100px;
-        width: 630px;
-        }
-    } */
-
-
 .hiw-image {
     border-radius: 30px;
     width: 335px;
