@@ -67,21 +67,11 @@ img {
     }
 }
 
-/* 
-/* .how-it-works{
-    display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        flex-direction: column;
-        gap: 0px;
-        margin: 0 auto;
-} */ 
-
 .how-it-works-container{
     display: flex;
         flex-direction: column;
         margin: 0 auto;
-                            background-color: linear-gradient(90deg, #7a3145, #7a3145 50%, #576f35 50%, #576f35);
+    background: linear-gradient(90deg, #7a3145, #7a3145 50%, #576f35 50%, #576f35);
 }
  @media screen and (min-width: 1280px) {
     .how-it-works-container {
