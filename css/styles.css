@@ -82,6 +82,7 @@ img {
     display: flex;
         flex-direction: column;
         margin: 0 auto;
+            background: linear-gradient(90deg, #7a3145, #7a3145 50%, #576f35 50%, #576f35);
 }
  @media screen and (min-width: 1280px) {
     .how-it-works-container {
